@@ -1,4 +1,0 @@
-#Mon Dec 02 17:20:54 WET 2019
-base.0=/home/aymanrs/projects/FutR/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
