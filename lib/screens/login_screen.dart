@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:futr/screens/profile_screen.dart';
 import 'create_account_screen.dart';
 import 'forgot_password_screen.dart';
 
@@ -31,7 +32,7 @@ class LoginScreen extends StatelessWidget {
                 child: Text('Forgot your password ?'),
                 onPressed: () {
                   Navigator.push(
-                      context, MaterialPageRoute(builder: (context) => ForgotPasswordScreen()));
+                      context, MaterialPageRoute(builder: (context) => ProfileScreen()));
                 },
               ),
               FlatButton(
